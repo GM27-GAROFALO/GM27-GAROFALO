@@ -4,6 +4,7 @@
 Welcome to my GitHub! I’m passionate about transforming data into actionable insights through advanced statistical models, machine learning techniques, and financial analysis. With a solid background in statistics, Big Data, financial risk management, and economics, I aim to solve complex problems in both the academic and business worlds.
 
 🚀 About Me: 
+
 I hold an academic foundation that bridges the gap between statistical analysis, finance, and data science, with hands-on experience in:
 
 Credit Scoring: Applying Probit Regression Analysis, Linear Discriminant Analysis, and ROC curves to develop models that assess credit risk for businesses.
