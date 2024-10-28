@@ -36,7 +36,7 @@ I'm currently expanding my expertise in:
 
 I'm always eager to collaborate on projects involving data science, financial analysis, and machine learning. Feel free to explore my repositories and reach out via:
 - 📧 [Gm27garofalo@gmail.com]
-- 💼 [linkedin.com/in/giovanni-garofalo-a8252b224]
+- 💼 [https://www.linkedin.com/in/giovanni-garofalo-a8252b224/]
 
 Check out my pinned repositories below to see my latest work in action!
 <!---
