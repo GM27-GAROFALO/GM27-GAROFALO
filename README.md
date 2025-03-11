@@ -1,11 +1,10 @@
  👋 Hi, I'm Giovanni Manlio Garofalo
 
-Data Scientist & Financial Risk Analyst passionate about transforming complex data into actionable insights. With expertise in statistical modeling, machine learning, and financial analysis, I bridge the gap between academic theory and practical business solutions.
+Statistician & Data Analyst passionate about transforming complex data into actionable insights. With expertise in statistical modeling, machine learning, and financial analysis, I bridge the gap between academic theory and practical business solutions.
 
  🔬 Core Expertise
 
-- **Credit Risk Modeling**: Probit Regression, LDA, ROC curves
-- **Financial Risk Management**: Merton Model, KMV approach, VaR analysis
+- **Credit Risk Modeling**: Probit Regression, LDA, LGD, EA, VaR analysis,  Merton Model, KMV approach,
 - **Time Series Analysis**: ARIMA, GARCH, TRAMO SEATS
 - **Machine Learning & Big Data**: Classification, predictive analytics, pattern recognition
 - **Statistical Methods**: Classical, Bayesian & non-parametric approaches
@@ -22,7 +21,7 @@ Data Scientist & Financial Risk Analyst passionate about transforming complex da
 Explore my repositories to find projects showcasing:
 
 - Machine learning applications in finance
-- Statistical analysis for clinical trials
+- Statistical analysis for financial purposes
 - Big data visualization techniques
 
 🌱 Current Focus
@@ -30,7 +29,8 @@ Explore my repositories to find projects showcasing:
 I'm currently expanding my expertise in:
 - Advanced portfolio management & backtesting
 - Stochastic processes in financial modeling
-- Machine learning applications for algorithmic trading
+- Machine learning applications
+- NLP
 
 🤝 Let's Connect
 
